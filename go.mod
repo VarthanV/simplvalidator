@@ -1,3 +1,3 @@
-module github.com/VarthanV/simple-validator
+module github.com/VarthanV/simplvalidator
 
 go 1.15
