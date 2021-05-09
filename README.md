@@ -23,9 +23,9 @@ Golang  package provides helper functions for commonly use validations that we d
 ```
 
 ## TODO 
-[] Add test cases for all the functions
-[] Comprehensive documentation
-[] Add more validation functions
+[] Add test cases for all the functions <br/>
+[] Comprehensive documentation <br/>
+[] Add more validation functions 
 
 PRS are welcome !
 
