@@ -17,12 +17,12 @@ func IsEmpty(value string) bool {
 
 //Checks if the length of the value is greater than the length(arg)
 func IsLengthGreater(value string, length int) bool {
-	return len(value) > length
+	return len(value) < length
 }
 
 //Checks if the length of  of the given value is lesser than the length(arg)
 func IsLengthLesser(value string, length int) bool {
-	return len(value) < length
+	return len(value) > length
 }
 
 // Checks if the length of the given value is grrater than or equal to the length(arg)
